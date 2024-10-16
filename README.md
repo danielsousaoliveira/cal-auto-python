@@ -48,5 +48,5 @@ $ (venv) python3 src/main.py
 
 ## References
 
-[Google Calendar API](https://developers.google.com/calendar/api/quickstart/python)
+[Google Calendar API](https://developers.google.com/calendar/api/quickstart/python) \
 [Github Projects API](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects?tool=curl)
